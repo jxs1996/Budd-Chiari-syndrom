@@ -17,10 +17,10 @@
 <b>Figure 3: PRS model evaluation analysis.</b> <b>a)</b> The evaluation results of each model under different algorithms and different p-value conditions, and each condition is repeated 10 times. <b>b)</b> The AUC result of the BayesA model in the internal test set. <b>c)</b> Distribution of sample scores of BayesA model in external test set. the white line is the optimal threshold in b. <b>d)</b> The confusion matrix result of the BayesA model in the external test set, the result is obtained under the optimal threshold in b. <b>e)</b> The AUC result of the BLUP model in the internal test set. <b>f)</b> Distribution of sample scores of BLUP model in external test set. the white line is the optimal threshold in e. <b>g)</b> The confusion matrix result of the BLUP model in the external test set, the result is obtained under the optimal threshold in e.
 
 ### Supplementary File
-<b>Supplementary Table 3.</b> GWAS analysis result.txt
-
-<b>Supplementary Table 4.</b> Enrichr analysis result.xlsx
+<b>Supplementary Table 4.</b> GWAS analysis result.txt
 
 <b>Supplementary Table 5.</b> bayesA_snp_weight.txt
 
 <b>Supplementary Table 6.</b> blup_snp_weight.txt
+
+<b>Supplementary Table 7.</b> Enrichr analysis result.xlsx
